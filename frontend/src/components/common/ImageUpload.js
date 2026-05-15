@@ -1,0 +1,5 @@
+export const BOOK_PLACEHOLDER =
+  "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='200' height='260' viewBox='0 0 200 260'%3E%3Crect width='200' height='260' fill='%23e8e8e8'/%3E%3Crect x='30' y='30' width='140' height='180' rx='4' fill='%23c8c8c8'/%3E%3Crect x='44' y='50' width='112' height='8' rx='4' fill='%23999'/%3E%3Crect x='44' y='68' width='80' height='6' rx='3' fill='%23bbb'/%3E%3Crect x='44' y='110' width='112' height='5' rx='2' fill='%23ccc'/%3E%3Crect x='44' y='122' width='96' height='5' rx='2' fill='%23ccc'/%3E%3Crect x='44' y='134' width='104' height='5' rx='2' fill='%23ccc'/%3E%3Ctext x='100' y='228' text-anchor='middle' font-size='11' fill='%23999' font-family='sans-serif'%3ENo Cover%3C/text%3E%3C/svg%3E";
+
+export const AUTHOR_PLACEHOLDER =
+  "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='120' height='120' viewBox='0 0 120 120'%3E%3Ccircle cx='60' cy='60' r='60' fill='%23e0e0e0'/%3E%3Ccircle cx='60' cy='45' r='22' fill='%23bbb'/%3E%3Cellipse cx='60' cy='100' rx='34' ry='26' fill='%23bbb'/%3E%3C/svg%3E";
