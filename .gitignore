@@ -13,6 +13,10 @@ node_modules/
 # Firebase project-specific env (contains private keys)
 .env.book-libr-app-graphql
 
+# Firebase project config (contains project ID)
+.firebaserc
+.firebase/
+
 # Next.js
 frontend/.next/
 frontend/out/
